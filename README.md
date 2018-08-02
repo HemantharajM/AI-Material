@@ -17,5 +17,9 @@
 * [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks) by Geoffrey Hinton.
 * [Stanford Engineering Everywhere - Machine Learning](https://see.stanford.edu/course/cs229) by Andrew Ng.
 * [Stanford University - Convolution Neural Network for Visual Recognition](http://cs231n.stanford.edu) by Fei-Fei Li.
+* [Stanford Engineering Everywhere - Natural Language Processing](https://see.stanford.edu/Course/CS224N) by Manning, Christopher D.
+* [UCL Course on RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) by David Silver.
+* [Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/) by Sergey Levine.
+
 
 
