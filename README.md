@@ -20,6 +20,27 @@
 * [Stanford Engineering Everywhere - Natural Language Processing](https://see.stanford.edu/Course/CS224N) by Manning, Christopher D.
 * [UCL Course on RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) by David Silver.
 * [Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/) by Sergey Levine.
+* [Deep Learning for Self-Driving Cars](https://selfdrivingcars.mit.edu/)
+
+### AI Platform:
+* [H2O.ai](https://www.h2o.ai/) Python, R and Java programming languages.
+* [Apache Prediction IO](https://predictionio.apache.org/)
+* [Ecliplse Deeplearning](https://projects.eclipse.org/proposals/eclipse-deeplearning4j)
+* [Accord.NET Framework](http://accord-framework.net/)
+* [Microsoft Azure](https://docs.microsoft.com/en-us/azure/machine-learning/service/)
+* [ai-one](http://www.ai-one.com/)
+* [IBM Watson](https://www.ibm.com/watson/)
+* [Torch](http://torch.ch/)
+* [Protege](https://protege.stanford.edu/products.php)
+* [TensorFlow](https://www.tensorflow.org/)
+* [DiffBlue](https://www.diffblue.com/)
+* [Neon](https://github.com/NervanaSystems/neon)
+* [Apache Spark MLlib](https://spark.apache.org/mllib/)
+* [openNN](http://www.opennn.net/)
+* [Amazon Web Service](https://aws.amazon.com/sagemaker/)
+* [Mahout](https://mahout.apache.org/)
+* [vELES](https://velesnet.ml/)
+* [Caffe](http://caffe.berkeleyvision.org/)
 
 
 
